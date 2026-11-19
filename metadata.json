@@ -1,0 +1,6 @@
+{
+  "name": "Queue-Free Canteen",
+  "description": "Smart college canteen queue management, dynamic prep-time estimation, workload-aware pickup slot allocation, and instant QR ticket verification.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
